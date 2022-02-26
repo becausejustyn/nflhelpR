@@ -13,4 +13,6 @@ Imports:
     dplyr,
     magrittr,
     pracma,
-    rlang
+    readr,
+    rlang,
+    stringr
